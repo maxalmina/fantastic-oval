@@ -1,5 +1,11 @@
 # Git Playground
 
+## Install Git
+Download and install git from this url https://git-scm.com/install/windows
+
+
+Kerjakan Problem 1 dan 2 menggunakan C++ atau Python
+
 ## Problem 1: Titik pada Segmen
 
 Pada sebuah garis horizontal, terdapat sebuah segmen horizontal yang ditentukan oleh koordinat x di kedua ujungnya: first dan second. Sebuah titik berada pada garis horizontal yang sama dan ditentukan oleh koordinat x-nya. Tulislah sebuah program yang memeriksa apakah titik tersebut berada di dalam atau di luar segmen, serta menghitung jarak dari titik tersebut ke ujung segmen terdekat.
